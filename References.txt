@@ -1,0 +1,36 @@
+References:
+
+1. The starter code repository and source code used for this project.
+
+https://github.com/udacity/ud120-projects.git
+poi_id.py: Train POI classification models using helper modules.
+poi_add_features.py: Library for creating features to be used in creating fraud person-of-interest(POI) prediction model.
+poi_data.py: Library for shaping the data to be to used in creating fraud person-of-interest (POI) prediction model.
+poi_model.py: Library for returning sk-learn pipelines and parameters for use in predictive model building.
+tools/tester.py: Basic script for importing student's POI identifier, and checking the results that they get from it.
+tools/feature_format.py: A general tool for converting data from the dictionary format to an (n x k) python list that's ready for training an sklearn algorithm.
+
+
+2. For help in creating my code and analysis for the final project, I used the following links.
+
+http://en.wikipedia.org/wiki/Enron
+http://en.wikipedia.org/wiki/Enron_Corpus
+http://www.cs.cmu.edu/~./enron/
+http://news.findlaw.com/legalnews/lit/enron/
+https://www.markdownguide.org/cheat-sheet/
+https://github.com/oforero/ud120-projects/tree/python-3.8
+https://github.com/udacity/ud120-projects/issues/13
+https://github.com/conda/conda/issues/7351
+https://github.com/udacity/ud120-projects/issues/140
+https://github.com/udacity/ud120-projects/pull/88
+https://github.com/scikit-learn/scikit-learn/pull/11613
+https://knowledge.udacity.com/?nanodegree=nd002-wgu&page=6&project=27&rubric=27&sort=SCORE
+https://programmerbackpack.com/naive-bayes-classifier-tutorial-in-python-and-scikit-learn/
+https://scikit-learn.org/stable/index.html
+http://scikit-learn.org/stable/modules/pipeline.html
+http://www.numpy.org/
+http://pandas.pydata.org/
+https://docs.python.org/2/
+
+
+
