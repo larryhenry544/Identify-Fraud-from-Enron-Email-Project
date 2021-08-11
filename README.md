@@ -1,4 +1,4 @@
-# Udacity-Identify-Fraud-from-Enron-Email-Project
+# Identify-Fraud-from-Enron-Email-Project
 
 **Larry Henry Jr.**
 
